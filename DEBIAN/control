@@ -1,0 +1,10 @@
+Package: cstbox-ext-pdflatex
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: cstbox-deps-texlive
+Maintainer: Eric Pascual <eric.pascual@cstb.fr>
+Description: CSTBox LaTeX based report generation tools extension
+    This package adds tools for producing PDF reports, using LaTeX
+    as rendering engine.
